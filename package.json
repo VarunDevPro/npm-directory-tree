@@ -1,0 +1,32 @@
+{
+  "name": "@varundevpro/directory-tree",
+  "version": "1.0.0",
+  "description": "Traverses directory tree and export it in JSON",
+  "main": "./lib/index.js",
+  "files": [
+    "/lib"
+  ],
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VarunDevPro/npm-directory-tree.git"
+  },
+  "keywords": [
+    "directory",
+    "tree",
+    "json",
+    "folder",
+    "structure"
+  ],
+  "author": "Varun A 🔥",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VarunDevPro/npm-directory-tree/issues"
+  },
+  "homepage": "https://github.com/VarunDevPro/npm-directory-tree#readme"
+}
